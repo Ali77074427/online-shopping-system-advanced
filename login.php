@@ -1,5 +1,5 @@
 <?php
-include "db.php";
+include "db.Ali";
 
 session_start();
 
